@@ -1,0 +1,12 @@
+venvDL/
+
+# Processed image split folders
+test/
+train/
+validate/
+test_0.5/
+train_0.5/
+validate_0.5/
+
+# CSV datasets
+*.csv
