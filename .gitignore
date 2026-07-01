@@ -7,6 +7,11 @@ validate/
 test_0.5/
 train_0.5/
 validate_0.5/
-
+old_data/
+raw_data/
+additional_data/
+final_data/
+version1/models/
+additional_data/
 # CSV datasets
 *.csv
